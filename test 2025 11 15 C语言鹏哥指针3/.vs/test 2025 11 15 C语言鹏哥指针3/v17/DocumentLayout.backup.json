@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\C\u8BED\u8A002\\C\u8BED\u8A00\u7B14\u8BB0\\test 2025 11 15 C\u8BED\u8A00\u9E4F\u54E5\u6307\u94883\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C98E8402-71E8-4027-8EC3-DAA66D0B6E08}|test 2025 11 15 C\u8BED\u8A00\u9E4F\u54E5\u6307\u94883.vcxproj|C:\\Users\\lenovo\\Desktop\\C\u8BED\u8A002\\C\u8BED\u8A00\u7B14\u8BB0\\test 2025 11 15 C\u8BED\u8A00\u9E4F\u54E5\u6307\u94883\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C98E8402-71E8-4027-8EC3-DAA66D0B6E08}|test 2025 11 15 C\u8BED\u8A00\u9E4F\u54E5\u6307\u94883.vcxproj|solutionrelative:FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ViewState": "AgIAAD0EAAAAAAAAAAD4v0oEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-16T03:04:20.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\C\u8BED\u8A002\\C\u8BED\u8A00\u7B14\u8BB0\\test 2025 11 15 C\u8BED\u8A00\u9E4F\u54E5\u6307\u94883\\FileName.c",
+              "RelativeDocumentMoniker": "FileName.c",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\C\u8BED\u8A002\\C\u8BED\u8A00\u7B14\u8BB0\\test 2025 11 15 C\u8BED\u8A00\u9E4F\u54E5\u6307\u94883\\FileName.c",
+              "RelativeToolTip": "FileName.c",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-16T02:27:34.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
