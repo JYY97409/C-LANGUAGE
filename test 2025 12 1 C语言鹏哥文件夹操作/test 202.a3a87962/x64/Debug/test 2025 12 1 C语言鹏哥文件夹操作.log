@@ -1,0 +1,6 @@
+﻿  FileName.c
+C:\Users\lenovo\Desktop\C语言2\C语言笔记\test 2025 12 1 C语言鹏哥文件夹操作\FileName.c(7,9): warning C4005: “offsetof”: 宏重定义
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stddef.h(49,17):
+      参见“offsetof”的前一个定义
+  
+  test 2025 12 1 C语言鹏哥文件夹操作.vcxproj -> C:\Users\lenovo\Desktop\C语言2\C语言笔记\test 2025 12 1 C语言鹏哥文件夹操作\x64\Debug\test 2025 12 1 C语言鹏哥文件夹操作.exe

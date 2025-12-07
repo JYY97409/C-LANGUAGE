@@ -1,0 +1,5 @@
+﻿  list.c
+C:\Users\lenovo\Desktop\C语言2\C语言笔记\test 2025 12 3 C语言链表\list.c(9,3): warning C4047: “return”:“listnode *”与“int”的间接级别不同
+  test.c
+  正在生成代码...
+  test 2025 12 3 C语言链表.vcxproj -> C:\Users\lenovo\Desktop\C语言2\C语言笔记\test 2025 12 3 C语言链表\x64\Debug\test 2025 12 3 C语言链表.exe
